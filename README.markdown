@@ -1,5 +1,7 @@
-Dropbox for Screenpresso 1.4
+Dropbox for Screenpresso
 ===========================================================================================
+Version 1.4
+---------------------------------------------------------------------------------------------
 
 Dropbox for Screenpresso is a script which copies the public link of the selected image on the history window. It only accepts one.
 
